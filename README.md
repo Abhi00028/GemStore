@@ -35,3 +35,28 @@ Assisted in writing and maintaining project documentation, including user manual
 
 ![image](https://github.com/user-attachments/assets/08b7ba78-9a30-4041-ae97-db7038208aa4)
 
+
+Onyeka:
+
+I Participated in brainstorming sessions to generate ideas for features and functionalities.
+Conducted market analysis to identify target audiences and create detailed user personas.
+Designed the Entity-Relationship Diagram to define database structures and relationships.
+Developed the Class Diagram to visualize software structure and functionality.
+Contributed to front-end and back-end code development using technologies like React and Node.js.
+Performed testing to ensure system functionality and quality.I also designed the activity diagram
+
+
+
+![Activity Diagram1](https://github.com/user-attachments/assets/325278a6-a230-4773-b8c8-6697fc9c6b0b)
+
+
+
+
+<img width="842" alt="project entities" src="https://github.com/user-attachments/assets/9b35be64-a2c2-4e3c-a63e-50d7068b87d7">
+
+
+
+<img width="800" alt="final project class diagram" src="https://github.com/user-attachments/assets/561132db-1a84-42ec-9cd9-8860efb17195">
+
+
+
